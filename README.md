@@ -23,12 +23,19 @@ brew install python
 ## Download Python packages
 
 pip install pandas
+
 pip install jupyter
+
 pip install matplotlib
+
 pip install numpy
+
 pip install seaborn
+
 pip install sklearn
+
 pip install palettable
+
 pip install colormap
 
 ## Cheat Sheets! 
