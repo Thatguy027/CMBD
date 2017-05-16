@@ -1,0 +1,80 @@
+Experiment ID,Experiment description,Reference sample,"Time, min",Ref.
+alpha 0,Cell-cycle: Alpha factor arrest and release,Unsynchronized culture,0,1
+alpha 7,Cell-cycle: Alpha factor arrest and release,Unsynchronized culture,7,1
+alpha 14,Cell-cycle: Alpha factor arrest and release,Unsynchronized culture,14,1
+alpha 21,Cell-cycle: Alpha factor arrest and release,Unsynchronized culture,21,1
+alpha 28,Cell-cycle: Alpha factor arrest and release,Unsynchronized culture,28,1
+alpha 35,Cell-cycle: Alpha factor arrest and release,Unsynchronized culture,35,1
+alpha 42,Cell-cycle: Alpha factor arrest and release,Unsynchronized culture,42,1
+alpha 49,Cell-cycle: Alpha factor arrest and release,Unsynchronized culture,49,1
+alpha 56,Cell-cycle: Alpha factor arrest and release,Unsynchronized culture,56,1
+alpha 63,Cell-cycle: Alpha factor arrest and release,Unsynchronized culture,63,1
+alpha 70,Cell-cycle: Alpha factor arrest and release,Unsynchronized culture,70,1
+alpha 77,Cell-cycle: Alpha factor arrest and release,Unsynchronized culture,77,1
+alpha 84,Cell-cycle: Alpha factor arrest and release,Unsynchronized culture,84,1
+alpha 91,Cell-cycle: Alpha factor arrest and release,Unsynchronized culture,91,1
+alpha 98,Cell-cycle: Alpha factor arrest and release,Unsynchronized culture,98,1
+alpha 105,Cell-cycle: Alpha factor arrest and release,Unsynchronized culture,105,1
+alpha 112,Cell-cycle: Alpha factor arrest and release,Unsynchronized culture,112,1
+alpha 119,Cell-cycle: Alpha factor arrest and release,Unsynchronized culture,119,1
+Elu 0,Cell-cycle: Elutriation,Unsynchronized culture,0,1
+Elu 30,Cell-cycle: Elutriation,Unsynchronized culture,30,1
+Elu 60,Cell-cycle: Elutriation,Unsynchronized culture,60,1
+Elu 90,Cell-cycle: Elutriation,Unsynchronized culture,90,1
+Elu 120,Cell-cycle: Elutriation,Unsynchronized culture,120,1
+Elu 150,Cell-cycle: Elutriation,Unsynchronized culture,150,1
+Elu 180,Cell-cycle: Elutriation,Unsynchronized culture,180,1
+Elu 210,Cell-cycle: Elutriation,Unsynchronized culture,210,1
+Elu 240,Cell-cycle: Elutriation,Unsynchronized culture,240,1
+Elu 270,Cell-cycle: Elutriation,Unsynchronized culture,270,1
+Elu 300,Cell-cycle: Elutriation,Unsynchronized culture,300,1
+Elu 330,Cell-cycle: Elutriation,Unsynchronized culture,330,1
+Elu 360,Cell-cycle: Elutriation,Unsynchronized culture,360,1
+Elu 390,Cell-cycle: Elutriation,Unsynchronized culture,390,1
+cdc15 10,Cell-cycle: cdc15 arrest and release,Unsynchronized culture,10,1
+cdc15 30,Cell-cycle: cdc15 arrest and release,Unsynchronized culture,30,1
+cdc15 50,Cell-cycle: cdc15 arrest and release,Unsynchronized culture,50,1
+cdc15 70,Cell-cycle: cdc15 arrest and release,Unsynchronized culture,70,1
+cdc15 90,Cell-cycle: cdc15 arrest and release,Unsynchronized culture,90,1
+cdc15 110,Cell-cycle: cdc15 arrest and release,Unsynchronized culture,110,1
+cdc15 130,Cell-cycle: cdc15 arrest and release,Unsynchronized culture,130,1
+cdc15 150,Cell-cycle: cdc15 arrest and release,Unsynchronized culture,150,1
+cdc15 170,Cell-cycle: cdc15 arrest and release,Unsynchronized culture,170,1
+cdc15 190,Cell-cycle: cdc15 arrest and release,Unsynchronized culture,190,1
+cdc15 210,Cell-cycle: cdc15 arrest and release,Unsynchronized culture,210,1
+cdc15 230,Cell-cycle: cdc15 arrest and release,Unsynchronized culture,230,1
+cdc15 250,Cell-cycle: cdc15 arrest and release,Unsynchronized culture,250,1
+cdc15 270,Cell-cycle: cdc15 arrest and release,Unsynchronized culture,270,1
+cdc15 290,Cell-cycle: cdc15 arrest and release,Unsynchronized culture,290,1
+spo 0,Sporulation,Time 0,0,2
+spo 2,Sporulation,Time 0,120,2
+spo 5,Sporulation,Time 0,300,2
+spo 7,Sporulation,Time 0,420,2
+spo 9,Sporulation,Time 0,540,2
+spo 11,Sporulation,Time 0,660,2
+spo5 2,Sporulation,5-hr timepoint,120,2
+spo5 7,Sporulation,5-hr timepoint,420,2
+spo5 11,Sporulation,5-hr timepoint,660,2
+spo- early,Sporulation in ndt80 knockout,2-hr timepoint,120,2
+spo- mid,Sporulation in ndt80 knockout,5-hr timepoint,300,2
+heat 0,Heat Shock 25-37C,Time 0,0,
+heat 10,Heat Shock 25-37C,Time 0,10,
+heat 20,Heat Shock 25-37C,Time 0,20,
+heat 40,Heat Shock 25-37C,Time 0,40,
+heat 80,Heat Shock 25-37C,Time 0,80,
+heat 160,Heat Shock 25-37C,Time 0,160,
+dtt 15,DTT Shock 1mm,Time 0,15,
+dtt 30,DTT Shock 1mm,Time 0,30,
+dtt 60,DTT Shock 1mm,Time 0,60,
+dtt 120,DTT Shock 1mm,Time 0,120,
+cold 0,Cold Shock 25-11,Time 0,0,
+cold 20,Cold Shock 25-12,Time 0,20,
+cold 40,Cold Shock 25-13,Time 0,40,
+cold 160,Cold Shock 25-14,Time 0,160,
+diau a,Diauxic Shift,Time 0,540,3
+diau b,Diauxic Shift,Time 0,660,3
+diau c,Diauxic Shift,Time 0,780,3
+diau d,Diauxic Shift,Time 0,900,3
+diau e,Diauxic Shift,Time 0,1020,3
+diau f,Diauxic Shift,Time 0,1140,3
+diau g,Diauxic Shift,Time 0,1260,3
