@@ -43,3 +43,5 @@ pip install colormap
 ### [Pandas](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 ### [git](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 ### [bash](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
+### [regular expressions](https://github.com/tartley/python-regex-cheatsheet/blob/master/cheatsheet.rst)
+### [A regular expressions tool](http://www.pyregex.com/)
