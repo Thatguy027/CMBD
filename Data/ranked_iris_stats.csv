@@ -1,0 +1,7 @@
+statistic,mean,mean,mean,std,std,std,sum,sum,sum
+Iris,Iris-setosa,Iris-versicolor,Iris-virginica,Iris-setosa,Iris-versicolor,Iris-virginica,Iris-setosa,Iris-versicolor,Iris-virginica
+measurement,,,,,,,,,
+PetalLength,1,2,3,1,2,3,1,2,3
+PetalWidth,1,2,3,1,2,3,1,2,3
+SepalLength,1,2,3,1,2,3,1,2,3
+SepalWidth,3,1,2,3,1,2,3,1,2
